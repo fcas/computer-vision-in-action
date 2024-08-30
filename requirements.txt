@@ -25,7 +25,7 @@ sklearn==0.0
 torch==1.4.0
 ipython==7.23.1
 
-opencv-python==4.4.0.44
+opencv-python==4.8.1.78
 tqdm==4.43.0
 
 urllib3==1.25.6
